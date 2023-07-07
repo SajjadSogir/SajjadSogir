@@ -1,4 +1,4 @@
-![I am a statistician and involves with research.](https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/331422081_753138579376330_1258397635895315792_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGI_yPWEB5o_9Kqfq4Cj0ck9fQNPUYeUh_19A09Rh5SHx4tnGhsVUiSt5Ednh-iJOT7rOe4tFMv27QzvYzvDuid&_nc_ohc=2PwDIMBr3cYAX8265EP&_nc_ht=scontent.fdac8-1.fna&oh=00_AfAqCc_DeHQPKboX7gGnw6O0I2oOmpybiQ4JQuVbfHnYDg&oe=64AD09F8)
+![I am a statistician and involves with research.](https://media.licdn.com/dms/image/D5616AQEKJCksCymIUw/profile-displaybackgroundimage-shrink_350_1400/0/1688529908780?e=1694044800&v=beta&t=0dk3EGe0qfAbjBUTK_5rO5KFBBoAzyLrMXxTFnkBcj8)
 ### Hi there 👋, My name is Sajjad Bin Sogir
 #### I am a statistician and involves with research.
 
