@@ -1,7 +1,7 @@
-(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a statistician and involves with research.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 ### Hi there 👋, My name is Sajjad Bin Sogir
 #### I am a statistician and involves with research.
-![I am a statistician and involves with research.]
+
 
 I have completed my honours in statistics and doing my master's at Jahangirnagar University. I am passionate to work on Biostatistics, Bioinformatics, and Data science. 
 
