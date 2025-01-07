@@ -3,7 +3,7 @@
 #### I am a statistician and involves with research.
 
 
-I have completed my bachelor's master's at Jahangirnagar University. I am passionate to work on Biostatistics, Bioinformatics, and Data science. 
+I have completed my bachelor's and master's at Jahangirnagar University. I am passionate to work on Biostatistics, Bioinformatics, and Data science. 
 
 Skills: R/ Python/ SPSS /STATA / SAS/Minitab/LaTex/Tableau
 
